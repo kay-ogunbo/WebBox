@@ -1,0 +1,248 @@
+The Emerald-Coding Style|
+-------------------------
+Oxygen/Oxygen-Software  |
+-------------------------
+Written by: Dan-Kode    |
+-------------------------
+
+
+
+
+
+Table Of Contents
+-----------------
+
+
+
+I. What is the 'Emerald-Coding Style'?
+
+II. The Coding-Style - Braces, Indentation, Formatting Code etc.
+II.I. Indentation
+II.I.I. 4-Spaces
+II.I.II. 5-Spaces
+II.II. Braces
+II.III. Spacing
+II.IV. Comments
+II.IV.I. Censored-Code
+
+III. What Your Code Should Look Like
+
+
+WHAT IS THE 'EMERALD-CODING STYLE'?
+-----------------------------------
+The 'Emerald-Coding Style' is a Coding-Style established by Oxygen/Oxygen-Software.
+
+The idea of the Coding-Style is to have:
+- Neat Code
+- Tidy Code
+- Beautiful Code
+- Readable and Understandable Code
+
+This is the idea and goal of the Coding-Style. Everything needs to be Readable, Tidy and look good.
+
+As with all of the other things related to Oxygen/Oxygen-Software, this is a Coding-Style that is very strict. It must be followed at all times.
+
+Note: This Coding-Style applies to all of Oxygen's Projects. Forks of the Project, luckily enough, don't have to follow it and can instead, follow their own Coding-Style.
+
+THE CODING-STYLE - BRACES, INDENTATION, FORMATTING CODE ETC.
+------------------------------------------------------------
+
+INDENTATION
+-----------
+As to what 'Indentation' is, it essentially just means to push a line of a Paragraph or Text by a few spaces. On a Computer, the Standard is usually 4-Spaces done by pressing the [Tab] Key.
+
+Oxygen, however, does not use 4-Spaces for Indentation. Instead, it uses 5-Spaces for Indentation in a single [Tab].
+
+An example is provided here:
+
+4-SPACES
+--------
+int main(void) {
+    printf("Hello world!");
+
+    return 0;
+}
+
+5-SPACES
+--------
+int main(void) {
+     printf("Hello world!");
+
+     return 0;
+}
+
+Now at first, it may look a bit hard to see the difference. But if you look closely(And when doing the actual Programming for a Project), you'll start to see the 5-Space Indents instead of 4-Space Indents.
+
+As to why 5-Spaces were chosen, it was just chosen for not really a specific reason. But, it does help improve the Readability of the Code, unlike 2 or 4-Spaces, which may end up looking all cramped up.
+
+BRACES
+------
+When referring to 'Braces', we're talking about these '{ }'. These are Curly-Braces. They're used commonly in Languages like C, Java, PHP, JavaScript and a bunch of other Programming-Languages. So, expect
+to see them a lot.
+
+Unfortunately, there are two different ways of putting in Curly-Braces. One neat and one not neat.
+
+Some people lay them out like this:
+
+int main(void)
+{
+     printf("This is not a good way to lay-out Curly-Braces.")
+
+     return 0;
+}
+
+Others, lay them out like this:
+
+int main(void) {
+     printf("This is a good way to lay-out Curly-Braces.");
+
+     return 0;
+}
+
+As in the examples provided, you can see the differences. Oxygen asks that you use the Curly-Braces Layout used in the second example. Using Braces as seen in the second example helps make things a lot Neater
+and it doesn't waste a Line of Code for a single Symbol.
+
+SPACING
+-------
+Note: When referring to 'Spacing', please do not confuse it with 'Indentation'.
+
+When referring to 'Spacing', we mean the Spaces that you put between things like your Operators(+,-,*,/,=,%,&,). Your Spaces are done using the [Spacebar] on your Keyboard.
+
+Unfortunately, some people either forget to put in Spaces or don't put in Spaces for no specific reason. This can cause problems such as making it harder to Read and just making the Code look un-tidy. Let's look
+at some examples.
+
+EXAMPLE 1
+---------
+
+int main(void) {
+     int num=0;
+     
+     for(num=0;num<100;num++) {
+          printf("%d",num);
+     }
+
+     return 0;
+}
+
+The example shown above is an example of the lack of Spacing in Programming. We want you to primarily focus on the For-Loop as this(And other Loops) is where the cause of no Spacing occurs.
+
+Here's the same example shown above but with Spaces.
+
+EXAMPLE 2
+---------
+
+int main(void) {
+     int num = 0;
+     
+     for(num = 0; num < 100; num++) {
+          printf("%d", num);
+     }
+     
+     return 0;
+}
+
+The example shown above is what your Spaces should look like. Putting in Spaces between things such as your Operators help improve Readability and make the Code look a lot tidier.
+
+COMMENTS
+--------
+A Comment in Programming, is a Line of Code that Documents something or has Info about something. The Line(s) that the Comment is on is ignored by the Program and does not interfere with the Program. When you see Symbols such as:
+-//
+-/**/
+-<!---->
+
+Those are Comments. Again, they are used to Document your Source-Code.
+
+Let's look at some examples of Comments.
+
+EXAMPLE 1
+---------
+/*
+ * Program
+ * Developed by: John Doe (C) 2014 - 2019
+ * This Program is Licensed under the <insert license here>
+*/
+
+int main(void) {
+     printf("Comments are a thing.");
+
+     return 0;
+}
+
+Using Comments as shown in the example above is a good way to use Comments and it's perfectly fine to use them that way. Using Comments this way gives a little bit of Info to other Developers about the Program, who created the Program
+it's License etc.
+
+EXAMPLE 2
+---------
+
+#include <stdio.h>
+#include <stdbool.h>
+
+int main(void) {
+     int num = 0; // This is the Number that will be Incremented
+     
+     _Bool IsActive = true; // This Boolean will determine if the Program is active or not.
+     
+     // Everything inside this Loop can only be done if the Program is active.
+     while(IsActive == true) {
+          num++; // Increment num
+          printf("%d", num); // Print the current Value of num
+     }
+     
+     return 0;
+}
+
+That example shown above is a good way of showing how to Document your Code. Documenting your Code helps others understand what your Code is doing, what it does when it's ran and can be used to list any Errors or Warnings for others
+in case they touch it and something breaks.
+
+CENSORED-CODE
+-----------
+'Censored-Code' is a term coined by Oxygen to define Code that has been Commented-Out. So what it means is, any Code(E.g. The Name of a Variable) that has a Comment Symbol at the beginning of it's Line, counts as 'Censored-Code',
+
+Let's look at some examples to help you understand what we mean:
+
+CENSORED-CODE EXAMPLE
+---------------------
+
+int main(void) {
+     // int num = 0;
+     
+     printf("%d", num);
+
+     return 0;
+}
+
+As seen in the example above, you can see the '//' Symbol for a Comment. Unfortunately, that Symbol has been put at the Line of a Variable. So, when we go to use that Variable, we can't because it's been Censored.
+
+Censoring your Code can cause many problems. You can't use Variables or Functions, parts of the Code are left to gather dust and it wastes space that could be occupied by other Code. When Commenting, please do not turn bits of Code
+into Censored-Code unless it's for a very good reason. A good reason could be something such as: "It kind of works but there are some parts that need to be fixed. It'll be fixed later". That's a valid reason.
+
+WHAT YOUR CODE SHOULD LOOK LIKE NOW
+-----------------------------------
+Now that you've looked through this whole Document, it's now time to see what your Code should look like now. Provided that you've followed this Document, the Guidelines of the Emerald Coding-Style and made sure your Code follows
+every part of the Coding-Style, your Code should look like:
+
+/*
+ * Program
+ * Author: John Doe
+ * Copyright 2014 - 2019
+ * Version 1.3.6
+ *
+ * This Program is Licensed under <License Name>
+*/
+
+#include <stdio.h>
+#include <stdbool.h>
+
+int main(void) {
+     int num = 0; // This is the Number that will be Incremented.
+
+     _Bool IsActive = true; // This will determine if the Program is Active or not.
+
+     // Everything inside this Loop can only be done if IsActive is set to 'true'.
+     while(IsActive == true) {
+          num++;
+          printf("%d", num);
+     }
+
+     return 0;
+}
