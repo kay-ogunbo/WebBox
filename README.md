@@ -1,4 +1,4 @@
-# WebWBox
+# WebBox
 
 ## About
 WebBox is a piece of Web-Software that can be installed onto your Website and give your Site's Users the ability to upload Programs,
