@@ -1,12 +1,13 @@
-# WebWareBox - Archive
-THIS IS THE ARCHIVE OF THE ORIGINAL WEBWAREBOX PROJECT. IT'S PURPOSE IS FOR HISTORIC-PURPOSES. BUT, IT'S MAIN REASON IS FOR ALLOWING OTHERS TO CREATE FORKS
-OF THE ORIGINAL PROJECT, FOR WHATEVER PURPOSE.
+# WebWBox
 
-YOU CANNOT CONTRIBUTE TO THIS REPOSITORY. IF YOU WANT TO CONTRIBUTE, PLEASE CREATE YOUR OWN FORK OR CONTRIBUTE TO AN EXISITNG FORK.
+## About
+WebBox is a piece of Web-Software that can be installed onto your Website and give your Site's Users the ability to upload Programs,
+Music, Pictures, Mods and plenty of other stuff. The Software is designed to be simple to use and can easily be Customized to better fit what your Site is all about.
 
-THANKS.
+The Software's Development was initiated by Oxygen/Oxygen-Software. The Software's Maintainers are:
+- Dan-Kode(**Lead-Maintainer**)
 
-(**NOTE TO FORK-OWNERS: PLEASE MODIFY THIS FILE TO SUIT YOUR FORK OF THE PROJECT.**)
+## License
+WebBox is Licensed under the OSPL(**Oxygen-Software-Public-License**) V1.0.0. You can learn more about it here: https://oxygen-software.github.io
 
-(**NOTE2: THE ORIGINAL PROJECT, HAD A LOT OF UNFINISHED THINGS IN IT. SO, PLEASE. IF YOU'RE GOING TO MAKE A FORK. MAKE SURE YOU COMPLETE ANYTHING THAT MAY BE 
-UNFINISHED AND ALSO ADD MISSING FEATURES(*LIKE REGISTRATION*)**)
+Since it is Licensed under the OSPL, it means it is FOSS(**Free and Open-Source Software**) Software so you're free to Contribute to it, modify it for your own use or in private and even Fork it if you want your changes to be seperate from the actual Software.
