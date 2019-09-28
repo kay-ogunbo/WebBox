@@ -1,5 +1,4 @@
-<img src="misc/WebBox_logo_2.png"></img>
-# WebBox
+<img src="misc/WebBox_logo_2.png" width=500></img>
 
 ## About
 WebBox is a piece of Web-Software that can be installed onto your Website and give your Site's Users the ability to upload Programs,
