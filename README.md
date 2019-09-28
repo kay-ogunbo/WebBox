@@ -1,4 +1,4 @@
-<img src="misc/WebBox.png"></img>
+<img src="misc/WebBox_logo_2.png"></img>
 # WebBox
 
 ## About
