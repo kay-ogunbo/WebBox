@@ -1,0 +1,20 @@
+src/
+----
+This is the src/ Directory of the WebBox Project. This Directory, contains the Web-Pages of the Software. The Directory also includes
+the Directory for any Assets(Such as CSS Files and JavaScript Files) and the Directory to Core-Functionality Scripts.
+
+Please use this Diagram to help navigate throughout the Directories:
+
+src/
+|
+assets/
+  |
+  scripts/
+  |  |
+  |  js/
+  |  php/
+  |
+  theme/
+    |
+    box_icons_v1/
+    css/
