@@ -1,0 +1,142 @@
+Oxygen-Software-Public-License|
+-------------------------------
+Version: 1.0.0(19/09/2019)    |
+-------------------------------
+Note: Please see <https://oxygen-software.github.io/license.html> for more Information on the License.
+
+0. Definitions
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+I. "Oxygen/Oxygen-Software" - Refers to the decentralized Group/Organization that creates Free and Open-Source Software. It is also the Organization that created the Oxygen-Software-Public-License(OSPL).
+
+II. "FOSS" - Acronym for "Free and Open-Source Software".
+
+III. "Contributor(s)" - Refers to a person from anywhere in the world, who help to Develop a FOSS Project.
+
+IV. "License" - Refers to the Oxygen-Software-Public-License(This Document that you're currently reading in this case).
+
+V. "OSPL" - Acronym for "Oxygen-Software-Public-License".
+
+VI. "Modifications" - Being any changes made to the Project.
+
+VII. "Forks/Forking" - Refers to taking a Project and creating your own Version of that Project.
+
+VIII."Contribution" - Means any changes made by a person or group of people.
+
+X. "Distribution(s)" - Refers to a "Re-Distributed" Version of the original Program but Modified.
+
+XI. "Repository" - A place somewhere online where all of the Files and Directories for a Project are stored.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1. This License And Copyright
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+When you apply this License to your Project:
+
+A. You are the original Copyright-Holder.
+B. As the Copyright-Holder, you are responsible for everything done with the Project and it's License.
+
+Since this is your License for the Project, it's your responsiblity to make sure that you follow all of the Terms and Conditions in this License. Your Project's Contributors will also have to make sure that you
+follow this License.
+
+If you happen to fail to follow the License, there is no need to worry. You will be warned at first for breaking the License but, will receive assistance to help fix the issue. If the issue with the License cannot
+be resolved, you may remove this License if by your own means or the suggestion of others.
+
+Any Forks of your Project, must also include this License with them. It's up to the owner of that Fork, to also make sure that their Project also follows the License. If the Fork owner does happen to break a part 
+of the License, the original Project will not be affected.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+2. Warranty, Liability And Trademarks/Patents
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+This License does in no way, have any Warranty provided by it. Any Changes, Modifications or Damages done to the Program by yourself, is your responsibility and you're responsible for all Modifications done to
+the Program. The Distributor, Developer or this License and the Owner of the License, does in no way, prove responsible for any Damage done to your Program in any shape or form. If you happen to break the Program
+and it's now defective, either Contact the Support-Team for that Program(If there is) or download a new Copy of the Program. As stated, nobody is responsible for the Damages done except you.
+
+In no event, shall the Distributor, Developer or Owner be Liable for anything done to your Copy of the Program. As stated with the Warranty, you are responsible for any Modifications done to the Program. The only
+time the Distributor, Developer or Owner shall be Liable is when it can be applicable by Law. As stated with the Warranty, you are Liable for any Damages done to your Copy of the Program.
+
+In regards to Trademarks, they are done separately in your own time. This License does not grant any Patents or Trademarks for your Program and you are legally responsible for all of the Trademarking and Patents.
+Again this License nor' is the Creator of this License(Oxygen/Oxygen-Software) responsible for the Trademarks or Patents for your Program.
+
+3. Source-Code And Distributing
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+When you apply this License to your Program, you are expected to have the Source-Code in either:
+- A public Repository
+- A Distributed version of the Program provided by you or another vendor.
+
+The Source-Code is expected to be provided somewhere. Any failure to have the Source-Code available will result in failing to follow the License(Please go back to Section 1 of this License to learn more about
+failing to follow the License).
+
+The Source-Code is essentially, the underlying technology of the Program. It's filled with tons of code than end up producing the end result which is the Program. As stated, when you apply this License to the
+Program, the Source-Code must either be available in a Repository or provided by you or a vendor for when the User downloads the Program.
+
+When Distributing the original Program, the Distributed-Version must:
+- Not be Modified.
+- Not contain any "Malicious-Files".
+- Contain the original Documents(README, LICENSE etc.)
+
+Distributions of the original Program must follow this rules above. This ensures Safety for the End-User and blocking the chances of this License being breached. Failure to follow those rules above will of course,
+breach the License contained in the Distribution but, may put the End-User at risk of a Modified and potentially Malicious-Program. It may also Damage the reputation of the original Project and it's Creator(s).
+
+4. Revoking The License
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+If anything in this License is failed to be followed, then Oxygen/Oxygen-Software has the right to ask you to remove the License from your Project's Files/Repository. When we say "to ask you to remove the License
+from your Project", we essentially mean that "This License must be removed immediately from the Project as it has been breached and the License-Owner has failed to follow it".
+
+What counts as Termination of the License:
+
+I. Failing to follow and/or breaching the License too many times.
+II. Modifying the License and Re-Distributing the Modified-License.
+III. Failure to have a Licensing-Issue resolved.
+IV. Using or creating the Program with intentions for Commercial-Use.
+
+All of the listed above, counts towards a Termination and Revoking of this License.
+
+Once you're License has been Revoked and you no longer have the rights to it after it has been Terminated, you may no longer apply the OSPL to your Project that it was Revoked and Terminated from. When you start 
+a new Project, you may add a new Copy of the OSPL but IT IS ONLY TO THAT NEW PROGRAM/PROJECT AND NOT THE ONE IT WAS REVOKED AND TERMINATED FROM.
+
+5. Newer Versions Of This License And Modified-Versions Of This License
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+At anytime, Oxygen/Oxygen-Software has the right to update this License and Distribute those updated Licenses.
+
+A newer Version of the License may be Released due to the following reasons:
+
+A. To fix any Typos and Mis-Spellings in the License.
+B. To improve Readability of the License.
+C. To remove parts of the License that are vague and instead, make them more transparent and understandable.
+D. A whole overhaul/re-write of the License.
+
+All reasons listed above, count to a new Version of this License-Document. Keep an eye out for new Versions and update to them as soon as possible.
+
+As for Modifying the License, under no circumstance shall you make and Re-Distribute a Modified-Version of the OSPL. Creating and Releasing Modified-Versions of this License counts towards the License being
+Revoked from your Project and the rights to it, Terminated. Everything stated about Modified-Licenses, also counts towards your own Project. Even if it is only for your own Project and it's not being
+Distributed, the License will be Revoked and Terminated.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+6. Commercial-Use
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Under no circumstances, shall you use somebodie's Software for Commercial-Purposes or create a Program with the intention of "Personal-Gain". Using or creating Software for Personal-Gain, will result in a breach
+of the License but it can be fixed(Please go back to Section 1 of this License to learn more about dealing with Licensing-Issues).
+
+Even if requested, the "Commercial-User" shall not receive the rights to use the Software for Commercial-Purposes, even if promising to include the Software used in the credits. If a Program has been found to
+have been used for Commercial-Purposes, the "Lead-Maintainer" of that Program will be asked to Revoke the rights to Commercial-Purposes from the Commercial-User.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+7. Modifications To The Program
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+The OSPL does permit Modification of this Program. Modifications can be done in private and to the Repository(Provided that the Lead-Maintainer allows the Modification). Distributions of Modified-Versions are
+also allowed with the only exception being the "No Modified Files" rule as the Program has already been Modified.
+
+Any Modifications done to the Program by the person who Modified is responsible for if their Copy of the Program becomes Damaged or broken.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Appendix A.
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+With this License, under your choice, you may also choose to include a Copyright and License Notice at the top or bottom of your Files.
+
+
+    Copyright belongs to: <Copyright-Holder Name> since <Day/Month/Year>
+
+    This Program is Licensed under the OSPL(Oxygen-Software-Public-License) - V1.0.0(19/09/2019).
+    To learn more about the License, please visit: https://oxygen-software.github.io/license.html
+
+As stated, this is optional. You do not have to include it if you want to but it's recommended. And again, this can be included either at the bottom or the top of your Files.
