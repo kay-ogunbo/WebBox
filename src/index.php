@@ -35,8 +35,8 @@
                     <p style="font-size: 14px;">
                          Welcome to WebBox, User! Please take your time to look around, settle in and see what the Software-Directory has to offer.
                     </p>
-                    <a href="index.php"><button>Home</button></a>
-                    <a href="software.php"><button>Software</button></a>
+                    <img src="assets/theme/box_icons_v1/house.png" width="25" style="vertical-align: sub;"><a href="index.php"><button>Home</button></a>
+                    <img src="assets/theme/box_icons_v1/software.png" width="25" style="vertical-align: sub;"><a href="software.php"><button>Software</button></a>
                     <br>
                     <br>
                </div>
