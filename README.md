@@ -11,3 +11,7 @@ The Software's Development was initiated by Oxygen/Oxygen-Software. The Software
 WebBox is Licensed under the OSPL(**Oxygen-Software-Public-License**) V1.0.0. You can learn more about it here: https://oxygen-software.github.io
 
 Since it is Licensed under the OSPL, it means it is FOSS(**Free and Open-Source Software**) Software so you're free to Contribute to it, modify it for your own use or in private and even Fork it if you want your changes to be seperate from the actual Software.
+
+### Repository Statistics
+![Repo-Size](https://img.shields.io/github/repo-size/Oxygen-Software/WebBox?color=informative&label=Repository%20Size&style=plastic) ![Issues](https://img.shields.io/github/issues/Oxygen-Software/WebBox?color=informational&label=Issues&style=plastic) ![Pull-Requests](https://img.shields.io/github/issues-pr/Oxygen-Software/WebBox?color=informational&label=Pull-Requests&style=plastic) 
+![Commits](https://img.shields.io/github/commit-activity/y/Oxygen-Software/WebBox?color=critical&label=Commits&style=plastic) ![Contributors](https://img.shields.io/github/contributors/Oxygen-Software/WebBox?color=critical&label=Contributors&style=plastic)
