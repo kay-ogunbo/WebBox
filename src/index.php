@@ -58,9 +58,9 @@
                     <h3>Other</h3>
                     <hr>
                     <!--The Nav-Menu for the Other-Panel.-->
-                    <a href="news.php"><button>News</button></a><br><br>
-                    <a href="about.php"><button>About</button></a><br><br>
-                    <a href="contact.php"><button>Contact Owner</button></a><br><br>
+                    <img src="assets/theme/box_icons_v1/rss.png" width="25" style="vertical-align: sub;"><a href="news.php"><button>News</button></a><br><br>
+                    <img src="assets/theme/box_icons_v1/info.png" width="25" style="vertical-align: sub;"><a href="about.php"><button>About</button></a><br><br>
+                    <img src="assets/theme/box_icons_v1/mail_small.png" width="25" style="vertical-align: sub;"><a href="contact.php"><button>Contact Owner</button></a><br><br>
                </div>
           </main>
           <br>
@@ -90,7 +90,8 @@
           <main>
                <div class="Footer">
                     <footer>
-                         <h5>This Website runs on WebBox | WebBox Version: 0.1.0(28/09/2019)</h5>
+                         <img src="assets/theme/box_icons_v1/info.png" width="25" style="vertical-align: sub;">
+                         <h5 style="display: inline-block;">This Website runs on WebBox | WebBox Version: 0.1.0(28/09/2019)</h5>
                          <h5>
                               <a href="https://webbox.github.io">Website</a> | 
                               WebBox is Licensed under the OSPL. Learn more here: <a href="https://oxygen-software.github.io/license.html">Oxygen-Software: License</a>
