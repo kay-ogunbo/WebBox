@@ -1,0 +1,23 @@
+/*
+ * Copyright belongs to: Oxygen-Software since <28/09/2019>
+ *
+ * This Program is Licensed under the OSPL(Oxygen-Software-Public-License) - V1.0.0(19/09/2019).
+ * To learn more about the License, please visit: https://oxygen-software.github.io/license.html
+*/
+/*
+ * File: software.css(src/assets/theme/box_icons_v1/)
+ *
+ * This is software.css. It controls the CSS on the software.php Page part of the WebBox Software.
+*/
+
+/* Change the Settings about the Recently-Added Section */
+.Recently-Added {
+     /* Add a Background and Border to it */
+     background-color: #F4FBFF;
+     border: 1px solid black;
+     /* Align everything in the middle */
+     margin: auto;
+     text-align: center;
+     /* Adjust the Width */
+     width: 35%;
+}
