@@ -66,8 +66,59 @@
                               <td>5th November 2019</td>
                               <td>GPLv3</td>
                          </tr>
+			 <tr>
+			      <td>Program2</td>
+			      <td>User2</td>
+			      <td>5th November 2019</td>
+			      <td>MIT License</td>
+			 </tr>
+			 <tr>
+			     <td>Program3</td>
+			     <td>User3</td>
+			     <td>7th November 2019</td>
+			     <td>OSPL 1.0.0</td>
+			 </tr>
                     </table>
                </div>
+	       <br>
+	       <br>
+	       <div class="Recommended-Software">
+	       	    <!--This Table will hold any Recommended-Software for the User.
+
+		    Note: As to how the Software will be Recommended, is unknown. It will involve Algorithms though and trying to Program an Algorithm.-->
+		    <table>
+			 <!--Program Details(Name, Developer, Released, Version, License)-->
+			 <tr>
+			      <th>Program Name</th>
+			      <th>Developer</th>
+			      <th>Released</th>
+			      <th>Version</th>
+			      <th>License</th>
+			 </tr>
+			 <!--Note to Contributors: This is just an example. It won't be displayed in the first major Version.-->
+		         <tr>
+			      <td>Program1</td>
+			      <td>User1</td>
+			      <td>5th November 2019</td>
+			      <td>1.0.4</td>
+			      <td>GPLv3</td>
+		         </tr>
+			  <tr>
+			      <td>Program2</td>
+			      <td>User2</td>
+			      <td>5th November 2019</td>
+			      <td>1.0.1</td>
+			      <td>MIT License</td>
+			 </tr>
+   			 <tr>                                                                                                                                                                                                              
+                             <td>Program3</td>                                                                                                                                                                                             
+                             <td>User3</td>                                                                                                                                                                                                
+                             <td>7th November 2019</td>
+			     <td>Version 1.1.2</td>
+                             <td>OSPL 1.0.0</td>                                                                                                                                                                                           
+                         </tr>  
+	            </table>
+	       </div>
           </main>
           <!--The Footer. This Footer contains Information about:
           - The Software

@@ -21,3 +21,15 @@
      /* Adjust the Width */
      width: 35%;
 }
+
+/* CSS Settings for the Recommended-Section */
+.Recommended-Software {
+     /* Add a Background and Border to it */
+     background-color: #EFEFEF;
+     border: 1px solid black;
+     /* Align everything in the middle */
+     margin: auto;
+     text-align: center;
+     /* Adjust the Width */
+     width: 35%;
+}
