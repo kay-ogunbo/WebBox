@@ -120,6 +120,30 @@
 	            </table>
 	       </div>
           </main>
+	  <!--The Category-List
+
+	  The Category-List, of course, lists all of the Software-Categories available. It is positioned on the left-side of the Software-Page.
+
+	  It will look something like this:
+
+	  Categories
+	  ----------
+	  - Utilities
+	  - Office and Work
+	  - Accessories-->
+	  <main>
+	       <div class="Category-List">
+	            <h3>Categories</h3>
+		    <hr>
+		    <ul>
+		         <li><a href="">Utilties</a></li>
+			 <li><a href="">Office & Work</a></li>
+		 	 <li><a href="">Accessories</a></li>
+			 <li><a href="">Development Tools</a></li>
+			 <li><a href="">Graphics</a></li>
+		    </ul>
+	       </div>
+	  </main>
           <!--The Footer. This Footer contains Information about:
           - The Software
           - The Software Version

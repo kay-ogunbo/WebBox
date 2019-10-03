@@ -33,3 +33,16 @@
      /* Adjust the Width */
      width: 35%;
 }
+
+/* CSS Settings for the Categories-List */
+.Category-List {
+     /* Add a Background and Border to it */
+     background-color: #ECECEC;
+     border: 1px solid black;
+     /* Align it to the left */
+     margin: auto;
+     position: fixed;
+     left: 0;
+     /* Adjust the Width */
+     width: 15%;
+}
