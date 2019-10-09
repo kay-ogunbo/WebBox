@@ -41,8 +41,9 @@
      border: 1px solid black;
      /* Align it to the left */
      margin: auto;
-     position: fixed;
-     left: 0;
+     position: absolute;
+     left: 30px;
+     top: 170px;
      /* Adjust the Width */
      width: 15%;
 }
