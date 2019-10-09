@@ -22,14 +22,19 @@ body {
 
 /* Adjust the Look of Button-Elements */
 button {
-     border: 1px solid black; /* Add a Border around the Buttons */
+     /* Add a Border around the Buttons */
+     border: 1px solid black;
+     border-radius: 5px;
      font-size: 15px; /* Adjust the Font-Size */
+     background-image: linear-gradient(#87C788, #2F6930); /* Add a Gradient-Background to the Buttons */
+     color: white; /* Set the Font-Colour to White */
 }
 
 /* A Hover-Effect for the Buttons */
 button:hover {
      /* Display a Drop-Shadow */
      box-shadow: 0px 3px 5px #182937;
+     background-image: linear-gradient(#A2E3A3, #64AA65); /* Make the Gradient a bit brighter upon Hovering over the Button */
 }
 
 /* CSS Settings for <table> Elements */
