@@ -15,7 +15,7 @@
 body {
      font-family: Verdana, Geneva, Tahoma, sans-serif; /* Set the Font */
      /* Add a Gradient-Background */
-     background-image: linear-gradient(#82929F, white);
+     background-image: linear-gradient(lightgrey, black);
      /* Adjust the Size of the Background */
      background-size: 2600px 2600px;
 }
