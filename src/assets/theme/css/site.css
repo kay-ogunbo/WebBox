@@ -64,8 +64,9 @@ table, th, td {
      position: fixed;
      bottom: 0;
      right: 0;
-     /* Adjust the Width */
+     /* Adjust the Width and Height */
      width: 100%;
+     height: 110px;
      text-align: center; /* Align the Text to be in the center */
 }
 
