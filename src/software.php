@@ -1,4 +1,4 @@
-<?php 
+<?php
 /*
  * Copyright belongs to: Oxygen-Software since <28/09/2019>
  *
@@ -23,7 +23,7 @@
      <body>
           <h1 style="text-align: center; color: white; text-shadow: 0px 0px 5px black;">Software-Directory</h1>
           <!--The Navigation-Menu for the Software. This Menu lets the User navigate through different Pages by clicking a Button.
-          
+
           This Menu contains Buttons that link to:
           - Homepage
           - Software-Directory
@@ -43,10 +43,10 @@
           </main>
           <br>
           <!--The Recently-Added Panel.
-          
+
           This Panel holds all of the Software that was recently added to the Site. At max, 15 Programs will be displayed with buttons that allow the User to explore
           more Programs.
-          
+
           Every Program is listed using <table>.-->
           <main>
                <div class="Recently-Added">
@@ -110,13 +110,13 @@
 			      <td>1.0.1</td>
 			      <td>MIT License</td>
 			 </tr>
-   			 <tr>                                                                                                                                                                                                              
-                             <td>Program3</td>                                                                                                                                                                                             
-                             <td>User3</td>                                                                                                                                                                                                
+   			 <tr>
+                             <td>Program3</td>
+                             <td>User3</td>
                              <td>7th November 2019</td>
 			     <td>Version 1.1.2</td>
-                             <td>OSPL 1.0.0</td>                                                                                                                                                                                           
-                         </tr>  
+                             <td>OSPL 1.0.0</td>
+                         </tr>
 	            </table>
 	       </div>
           </main>
@@ -133,7 +133,7 @@
 	  - Accessories-->
 	  <main>
 	       <div class="Category-List">
-	            <h3>Categories</h3>
+	            <h3 style="text-align: center;">Categories</h3>
 		    <hr>
 		    <ul>
 		         <li><a href="">Utilties</a></li>
@@ -149,7 +149,7 @@
           - The Software Version
           - Link to the Software's Website
           - The Software's License
-          
+
           NOTE TO USERS OF THE SOFTWARE: PLEASE DO NOT REMOVE ANYTHING FROM THIS FOOTER. DOING SO MAY CAUSE ISSUES WITH SUPPORT(E.G. REMOVING THE VERSION-NUMBER CAN STOP
           PEOPLE FROM KNOWING WHICH VERSION YOU'RE USING AND STOPS THEM FROM BEING ABLE TO ENCOUNTER YOUR ERROR ON THAT VERSION).-->
           <main>
@@ -158,7 +158,7 @@
                          <img src="assets/theme/box_icons_v1/info.png" width="25" style="vertical-align: sub;">
                          <h5 style="display: inline-block;">This Website runs on WebBox | WebBox Version: 0.1.0(28/09/2019)</h5>
                          <h5>
-                              <a href="https://webbox.github.io">Website</a> | 
+                              <a href="https://webbox.github.io">Website</a> |
                               WebBox is Licensed under the OSPL. Learn more here: <a href="https://oxygen-software.github.io/license.html">Oxygen-Software: License</a>
                          </h5>
                     </footer>

@@ -42,6 +42,7 @@ table, th, td {
      /* Add a Background-Colour and Border around the Table-Elements */
      background-color: #4E6E81;
      border: 1px solid white;
+     border-radius: 5px;
      color: white; /* Change the Text-Colour */
      /* Align the Tables in the center of the Panel */
      margin: auto;
@@ -53,8 +54,10 @@ table, th, td {
      /* Add a Background-Colour and Border to it */
      background-color: #EFEDEA;
      border: 1px solid black;
+     border-radius: 20px 20px 5px 5px;
      /* Align the Menu in the centre of the Page */
      margin: auto;
+     text-align: center;
      width: 35%; /* Adjust the Width */
 }
 
