@@ -13,11 +13,15 @@
 /* Change the Settings about the Recently-Added Section */
 .Recently-Added {
      /* Add a Background and Border to it */
-     background-color: #F4FBFF;
+     background-color: #F4F4F4;
      border: 1px solid black;
+     border-radius: 20px 20px 5px 5px;
      /* Align everything in the middle */
      margin: auto;
      text-align: center;
+     /* Put some Space between the Top and Bottom using Padding */
+     padding-top: 20px;
+     padding-bottom: 20px;
      /* Adjust the Width */
      width: 35%;
 }
@@ -25,11 +29,15 @@
 /* CSS Settings for the Recommended-Section */
 .Recommended-Software {
      /* Add a Background and Border to it */
-     background-color: #EFEFEF;
+     background-color: #F4F4F4;
      border: 1px solid black;
+     border-radius: 20px 20px 5px 5px;
      /* Align everything in the middle */
      margin: auto;
      text-align: center;
+     /* Put some Space between the Top and the Bottom using Padding */
+     padding-top: 20px;
+     padding-bottom: 20px;
      /* Adjust the Width */
      width: 35%;
 }
@@ -39,6 +47,7 @@
      /* Add a Background and Border to it */
      background-color: #ECECEC;
      border: 1px solid black;
+     border-radius: 20px 20px 5px 5px;
      /* Align it to the left */
      margin: auto;
      position: absolute;
