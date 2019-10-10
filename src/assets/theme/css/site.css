@@ -33,17 +33,17 @@ button {
 /* A Hover-Effect for the Buttons */
 button:hover {
      /* Display a Drop-Shadow */
-     box-shadow: 0px 3px 5px #182937;
+     box-shadow: 0px 3px 3px #182937;
      background-image: linear-gradient(#A2E3A3, #64AA65); /* Make the Gradient a bit brighter upon Hovering over the Button */
 }
 
 /* CSS Settings for <table> Elements */
 table, th, td {
      /* Add a Background-Colour and Border around the Table-Elements */
-     background-color: #4E6E81;
-     border: 1px solid white;
+     background-color: #F4F4F4;
+     border: 1px solid black;
      border-radius: 5px;
-     color: white; /* Change the Text-Colour */
+     color: black; /* Change the Text-Colour */
      /* Align the Tables in the center of the Panel */
      margin: auto;
      text-align: center;
@@ -55,6 +55,7 @@ table, th, td {
      background-color: #EFEDEA;
      border: 1px solid black;
      border-radius: 20px 20px 5px 5px;
+     box-shadow: 0px 3px 35px; /* Add a Drop-Shaodow to the Panel */
      /* Align the Menu in the centre of the Page */
      margin: auto;
      text-align: center;

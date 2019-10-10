@@ -16,6 +16,7 @@
      background-color: #F4F4F4;
      border: 1px solid black;
      border-radius: 20px 20px 5px 5px;
+     box-shadow: 0px 3px 35px; /* Add a Drop-Shaodow to the Panel */
      /* Align everything in the middle */
      margin: auto;
      text-align: center;
@@ -32,6 +33,7 @@
      background-color: #F4F4F4;
      border: 1px solid black;
      border-radius: 20px 20px 5px 5px;
+     box-shadow: 0px 3px 35px; /* Add a Drop-Shaodow to the Panel */
      /* Align everything in the middle */
      margin: auto;
      text-align: center;
@@ -48,6 +50,7 @@
      background-color: #ECECEC;
      border: 1px solid black;
      border-radius: 20px 20px 5px 5px;
+     box-shadow: 0px 3px 35px; /* Add a Drop-Shaodow to the Panel */
      /* Align it to the left */
      margin: auto;
      position: absolute;
