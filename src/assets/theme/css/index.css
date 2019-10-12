@@ -16,6 +16,8 @@
      /* Set the Background-Colour and Border */
      background-color: #E2E2E2;
      border: 1px solid black;
+     border-radius: 20px 20px 5px 5px;
+     box-shadow: 0px 3px 35px; /* Add a Drop-Shaodow to the Panel */
      /* Adjust the Width */
      width: 7%;
      /* Position the Panel */
@@ -30,6 +32,8 @@
      /* Set the Background-Colour and Border */
      background-color: #E2E2E2;
      border: 1px solid black;
+     border-radius: 20px 20px 5px 5px;
+     box-shadow: 0px 3px 35px; /* Add a Drop-Shaodow to the Panel */
      /* Adjust the Width */
      width: 25%;
      /* Position the Panel */
