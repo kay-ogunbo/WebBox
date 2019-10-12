@@ -156,7 +156,7 @@
                <div class="Footer">
                     <footer>
                          <img src="assets/theme/box_icons_v1/info.png" width="25" style="vertical-align: sub;">
-                         <h5 style="display: inline-block;">This Website runs on WebBox | WebBox Version: 0.1.0(28/09/2019)</h5>
+                         <h5 style="display: inline-block;">This Website runs on WebBox | WebBox Version: 0.1.0(14/10/2019)</h5>
                          <h5>
                               <a href="https://webbox.github.io">Website</a> |
                               WebBox is Licensed under the OSPL. Learn more here: <a href="https://oxygen-software.github.io/license.html">Oxygen-Software: License</a>
