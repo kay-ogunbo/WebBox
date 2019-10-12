@@ -1,4 +1,4 @@
-<?php 
+<?php
 /*
  * Copyright belongs to: Oxygen-Software since <28/09/2019>
  *
@@ -23,7 +23,7 @@
      <body>
           <h1 style="text-align: center; color: white; text-shadow: 0px 0px 5px black;">WebBox</h1>
           <!--The Navigation-Menu for the Software. This Menu lets the User navigate through different Pages by clicking a Button.
-          
+
           This Menu contains Buttons that link to:
           - Homepage
           - Software-Directory
@@ -45,13 +45,13 @@
                </div>
           </main>
           <br>
-          <!--The 'Other' Panel. This Panel contains Buttons that link to other Pages. 
-          
+          <!--The 'Other' Panel. This Panel contains Buttons that link to other Pages.
+
           These Pages are:
           - News-Page
           - About-Page
           - Contact-Page
-          
+
           THIS PANEL WILL NOT DISPLAY ON ANY OTHER PAGE.-->
           <main>
                <div class="Other-Panel">
@@ -65,7 +65,7 @@
           </main>
           <br>
           <!--The Category-Panel for the Homepage. This is a Homepage-Panel that displays a bunch of different Software-Categories.
-          
+
           While this Panel is displayed on the Homepage, it is also seen on the Software-Page(At the very bottom of the Software-Page).-->
           <main>
                <div class="Category-Panel_Home">
@@ -84,16 +84,16 @@
           - The Software Version
           - Link to the Software's Website
           - The Software's License
-          
+
           NOTE TO USERS OF THE SOFTWARE: PLEASE DO NOT REMOVE ANYTHING FROM THIS FOOTER. DOING SO MAY CAUSE ISSUES WITH SUPPORT(E.G. REMOVING THE VERSION-NUMBER CAN STOP
           PEOPLE FROM KNOWING WHICH VERSION YOU'RE USING AND STOPS THEM FROM BEING ABLE TO ENCOUNTER YOUR ERROR ON THAT VERSION).-->
           <main>
                <div class="Footer">
                     <footer>
                          <img src="assets/theme/box_icons_v1/info.png" width="25" style="vertical-align: sub;">
-                         <h5 style="display: inline-block;">This Website runs on WebBox | WebBox Version: 0.1.0(28/09/2019)</h5>
+                         <h5 style="display: inline-block;">This Website runs on WebBox | WebBox Version: 0.1.0(5/11/2019)</h5>
                          <h5>
-                              <a href="https://webbox.github.io">Website</a> | 
+                              <a href="https://webbox.github.io">Website</a> |
                               WebBox is Licensed under the OSPL. Learn more here: <a href="https://oxygen-software.github.io/license.html">Oxygen-Software: License</a>
                          </h5>
                     </footer>
