@@ -49,6 +49,41 @@ table, th, td {
      text-align: center;
 }
 
+/* CSS for all of the <form> related Elements */
+
+/* CSS for Textboxes */
+input[type="text"] {
+     /* Only add a Border */
+     border: 1px solid black;
+     border-radius: 5px;
+     /* Change the Font-Size */
+     font-size: 18px;
+}
+
+/* CSS for Textareas */
+textarea {
+     /* Only add a Border */
+     border: 1px solid black;
+     border-radius: 5px;
+}
+
+/* CSS for Submit Buttons */
+input[type="submit"] {
+     /* Add a Border around the Buttons */
+     border: 1px solid black;
+     border-radius: 5px;
+     font-size: 15px; /* Adjust the Font-Size */
+     background-image: linear-gradient(#7C99BD, #2A4466); /* Add a Gradient-Background to the Buttons */
+     color: white; /* Set the Font-Colour to White */
+}
+
+/* Hover-Effects for Submit Buttons */
+input[type="submit"]:hover {
+     /* Display a Drop-Shadow */
+     box-shadow: 0px 3px 3px #182937;
+     background-image: linear-gradient(#9AAFC9, #446189); /* Make the Gradient a bit brighter upon Hovering over it */
+}
+
 /* Change the look of the Navigation-Menu */
 .Navigation-Menu {
      /* Add a Background-Colour and Border to it */
