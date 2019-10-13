@@ -57,7 +57,7 @@ input[type="text"] {
      border: 1px solid black;
      border-radius: 5px;
      /* Change the Font-Size */
-     font-size: 18px;
+     font-size: 17px;
 }
 
 /* CSS for Textareas */
@@ -81,13 +81,13 @@ input[type="submit"] {
 input[type="submit"]:hover {
      /* Display a Drop-Shadow */
      box-shadow: 0px 3px 3px #182937;
-     background-image: linear-gradient(#9AAFC9, #446189); /* Make the Gradient a bit brighter upon Hovering over it */
+     background-image: linear-gradient(#B8C8DB, #7087A7); /* Make the Gradient a bit brighter upon Hovering over it */
 }
 
 /* Change the look of the Navigation-Menu */
 .Navigation-Menu {
      /* Add a Background-Colour and Border to it */
-     background-color: #EFEDEA;
+     background-color: #E2E2E2;
      border: 1px solid black;
      border-radius: 20px 20px 5px 5px;
      box-shadow: 0px 3px 35px; /* Add a Drop-Shaodow to the Panel */

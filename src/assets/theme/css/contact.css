@@ -22,4 +22,6 @@
      text-align: center;
      /* Adjust the Width */
      width: 45%;
+     /* Add some Padding to the Form */
+     padding-bottom: 20px;
 }

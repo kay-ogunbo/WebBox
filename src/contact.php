@@ -58,7 +58,7 @@
                     NOTE: AS OF NOW, THERE IS CURRENTLY NO FUNCTIONALITY TO THE FORMS.-->
                     <form>
                          <input type="text" name="Subject"><br>
-                         <textarea rows="20" cols="80"></textarea><br>
+                         <textarea rows="20" cols="80"></textarea><br><br>
                          <input type="submit" value="Send Email">
                     </form>
                </div>
