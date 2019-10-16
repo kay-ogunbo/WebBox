@@ -5,7 +5,7 @@ WebBox is a piece of Web-Software that can be installed onto your Website and gi
 Music, Pictures, Mods and plenty of other stuff. The Software is designed to be simple to use and can easily be Customized to better fit what your Site is all about.
 
 The Software's Development was initiated by Oxygen/Oxygen-Software. The Software's Maintainers are:
-- Crow[*Formerly Dan-Kode*](**Lead-Maintainer**)
+- Dan-Kode(**Lead-Maintainer**)
 
 ## License
 WebBox is Licensed under the OSPL(**Oxygen-Software-Public-License**) V1.0.0. You can learn more about it here: https://oxygen-software.github.io
