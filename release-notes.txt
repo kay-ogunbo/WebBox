@@ -1,0 +1,6 @@
+WebBox - V0.1.1.a
+------------------
+
+Changes:
+  - The Background is now a bit brighter.
+  - Removed that white glow from the Footer.
