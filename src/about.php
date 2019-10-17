@@ -7,7 +7,7 @@
 */
 /*
  * WebBox
- * @version 0.1.0
+ * @version 0.1.1
  * @author Dan-Kode(Oxygen-Software)
 */
 ?>
@@ -59,7 +59,7 @@
                     DO NOT REMOVE ANY OF THIS AS IT CAN COME IN HANDY WHEN GETTING SUPPORT FOR AN ISSUE.-->
                     <h3>WebBox Software - About</h3>
                     <p>Software: <i>WebBox</i></p>
-                    <p>Version: <i>0.1.0(14/10/2019)</i></p>
+                    <p>Version: <i>0.1.1(17/10/2019)</i></p>
                     <p>License: <i>OSPL 1.0.0(<a href="https://oxygen-software.github.io/license.html">License Info</a>)</i></p>
                     <p><b>Repository: <a href="https://www.github.com/Oxygen-Software/WebBox">Repository Link</a></b></p>
                </div>

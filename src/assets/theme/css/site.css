@@ -15,7 +15,7 @@
 body {
      font-family: Verdana, Geneva, Tahoma, sans-serif; /* Set the Font */
      /* Add a Gradient-Background */
-     background-image: linear-gradient(lightgrey, black);
+     background-image: linear-gradient(lightgrey, grey);
      /* Adjust the Size of the Background */
      background-size: 2600px 2600px;
 }
@@ -104,7 +104,6 @@ input[type="submit"]:hover {
      color: white;
      /* Add a Border around the Footer */
      border: 1px solid black;
-     box-shadow: 0px 0px 35px; /* Add a Drop-Shadow to the Footer */
      /* Position the Footer so that it's in a Fixed-Spot */
      position: fixed;
      bottom: 0;
