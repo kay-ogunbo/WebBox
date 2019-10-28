@@ -21,7 +21,7 @@
           <link rel="stylesheet" type="text/css" href="assets/theme/css/site.css"> <!--Import the Site-Wide CSS File-->
      </head>
      <body>
-          <h1 style="text-align: center; color: white; text-shadow: 0px 0px 5px black;">Software-Directory</h1>
+          <h1 style="text-align: center;">Software-Directory</h1>
           <!--The Navigation-Menu for the Software. This Menu lets the User navigate through different Pages by clicking a Button.
 
           This Menu contains Buttons that link to:

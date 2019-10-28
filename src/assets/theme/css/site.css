@@ -14,10 +14,6 @@
 /* Control basic things of the Software such as the Background and Font. */
 body {
      font-family: Verdana, Geneva, Tahoma, sans-serif; /* Set the Font */
-     /* Add a Gradient-Background */
-     background-image: linear-gradient(lightgrey, grey);
-     /* Adjust the Size of the Background */
-     background-size: 2600px 2600px;
 }
 
 /* Adjust the Look of Button-Elements */
@@ -87,10 +83,10 @@ input[type="submit"]:hover {
 /* Change the look of the Navigation-Menu */
 .Navigation-Menu {
      /* Add a Background-Colour and Border to it */
-     background-color: #E2E2E2;
+     background-color: #F5F5F5;
      border: 1px solid black;
      border-radius: 20px 20px 5px 5px;
-     box-shadow: 0px 3px 35px; /* Add a Drop-Shaodow to the Panel */
+     box-shadow: 0px 3px 15px; /* Add a Drop-Shaodow to the Panel */
      /* Align the Menu in the centre of the Page */
      margin: auto;
      text-align: center;

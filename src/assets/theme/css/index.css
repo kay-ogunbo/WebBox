@@ -14,10 +14,10 @@
 /* CSS Settings for the Other-Panel */
 .Other-Panel {
      /* Set the Background-Colour and Border */
-     background-color: #E2E2E2;
+     background-color: #F5F5F5;
      border: 1px solid black;
      border-radius: 20px 20px 5px 5px;
-     box-shadow: 0px 3px 35px; /* Add a Drop-Shaodow to the Panel */
+     box-shadow: 0px 3px 15px; /* Add a Drop-Shaodow to the Panel */
      /* Adjust the Width */
      width: 7%;
      /* Position the Panel */
@@ -30,10 +30,10 @@
 /* CSS Settings for the Category-Panel on the Homepage */
 .Category-Panel_Home {
      /* Set the Background-Colour and Border */
-     background-color: #E2E2E2;
+     background-color: #F5F5F5;
      border: 1px solid black;
      border-radius: 20px 20px 5px 5px;
-     box-shadow: 0px 3px 35px; /* Add a Drop-Shaodow to the Panel */
+     box-shadow: 0px 3px 15px; /* Add a Drop-Shaodow to the Panel */
      /* Adjust the Width */
      width: 25%;
      /* Position the Panel */

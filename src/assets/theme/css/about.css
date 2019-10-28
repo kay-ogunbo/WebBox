@@ -16,7 +16,7 @@
      background-color: white;
      border: 1px solid black;
      border-radius: 20px 20px 5px 5px;
-     box-shadow: 0px 3px 35px; /* Add a Drop-Shadow to the Panel */
+     box-shadow: 0px 3px 15px; /* Add a Drop-Shadow to the Panel */
      /* Align the Panel in the centre */
      margin: auto;
      text-align: center;

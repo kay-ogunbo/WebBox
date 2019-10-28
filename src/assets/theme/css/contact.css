@@ -16,7 +16,7 @@
      background-color: white;
      border: 1px solid black;
      border-radius: 20px 20px 5px 5px;
-     box-shadow: 0px 3px 35px; /* Add a Drop-Shadow */
+     box-shadow: 0px 3px 15px; /* Add a Drop-Shadow */
      /* Align it in the Center */
      margin: auto;
      text-align: center;
